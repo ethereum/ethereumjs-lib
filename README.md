@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/ethereum/ethereumjs-lib.png?label=ready&title=Ready)](https://waffle.io/ethereum/ethereumjs-lib)
 ethereumjs-lib [![Build Status](https://travis-ci.org/ethereum/ethereumjs-lib.svg?branch=master)](https://travis-ci.org/ethereum/ethereumjs-lib)
 ===========
 

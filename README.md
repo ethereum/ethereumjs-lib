@@ -84,7 +84,7 @@ the issues list or ask on the forms or on IRC.
 
 When you find issues, please report them:
 
-* [web](http://github.com/ethereum/ethereumjs-tools/issues)
+* [web](https://github.com/ethereum/ethereumjs-lib/issues)
 * [email](mailto:mb@ethdev.com)
 
 You can also look for null_radix in #ethereum-dev on irc://irc.freenode.net. 

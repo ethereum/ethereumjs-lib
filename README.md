@@ -1,6 +1,8 @@
 SYNOPSIS 
 ===========
 
+[![Join the chat at https://gitter.im/ethereum/ethereumjs-lib](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ethereum/ethereumjs-lib?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A Javascript library of core [Ethereum](http://Ethereum.org) functions as described in the [Yellow Paper](https://github.com/ethereum/yellowpaper). This is a simple meta-module that provides the following modules.
 
  - [VM](https://github.com/ethereum/ethereumjs-vm) - The Ethereum vitural machine and state processing functions

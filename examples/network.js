@@ -1,9 +1,9 @@
-var Network = require('../').Network;
+var Network = require('../').p2p;
 var network = new Network();
 
-// network.on('message', function(payload){
-//    // console.log(payload);
-// });
+network.on('message', function(payload){
+    console.log(payload);
+});
 
 network.on('message.hello', function(hello){
     console.log('hello from:' + hello.clientId);
